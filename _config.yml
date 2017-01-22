@@ -1,8 +1,8 @@
 # Site settings
 title: Bar Tack Consulting
-email: bartackconsulting at gmail dot com
+email:
 url: http://www.bartackconsulting.com
-description: "Berlin-based product managment consulting"
+description: "Product management experts specializing in early stage startups with experience in San Francisco and Berlin. Contact at bartackconsulting at gmail dot com"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
